@@ -1,0 +1,12 @@
+body {
+	overflow-y: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+}
+
+#gameBoard {
+	width: 700px;
+	margin-top:calc((100vh - 700px)/2);
+}
